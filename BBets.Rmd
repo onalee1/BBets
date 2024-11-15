@@ -76,6 +76,15 @@ teachers <- numeric (1000)
 
   First we conducted tests on the odds with a sample of 40 teachers. Despite numerous iterations, the odds remained unstable, prompting us to expand the sample to 1000 teachers. Following this increase, we reevaluated the odds. After conducting multiple rounds of testing, we identified the set of odds with a stability factor of 4.39 as the most consistent.
 
+```{r}
+# Create a histogram
+hist(teachers, 
+     main = "teachers Histogram",
+     xlab = "teachers",
+     ylab = "Frequency",
+     col = "skyblue",
+     border = "black")
+```
 
 # What size of class makes the 2:1 bet fair?  Use manipulation of number of Students to tune Brownlows earnings to zero.
 
