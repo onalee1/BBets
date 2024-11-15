@@ -39,7 +39,8 @@ The function will be given a class_size by number of students, odds, and Number_
 # In the class and payoff as described  If you highered 40 brownlow substitute teachers to do the same thing that Brownlow did then.
 
 ## what is their average earnings
-
+  The average earnings is "r mean(myBrLw)"
+  
 ## the standard deviation and a 95% confidence interval for their earnings?
    1000 BrLws in order to find a 95% confidence interval to see how many students in a class of 35 have the same birthday.This will be sorted by earnings from low to high in order to find a 95% confidence interval on the high and low ends.
    
