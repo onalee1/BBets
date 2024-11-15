@@ -37,9 +37,12 @@ There are 3 questions and there should be at least 3 separate commits, at least 
 The function will be given a class_size by number of students, odds, and Number_of_times brownlow made the bet.  It will give you back how much Brownlows earnings were. We will use it to answer our three questions below. If you can, improve this function by giving default values to some of its inputs. 
 
 # In the class and payoff as described  If you highered 40 brownlow substitute teachers to do the same thing that Brownlow did then.
+
 ## what is their average earnings
+
 ## the standard deviation and a 95% confidence interval for their earnings?
-  
+   1000 BrLws in order to find a 95% confidence interval to see how many students in a class of 35 have the same birthday.This will be sorted by earnings from low to high in order to find a 95% confidence interval on the high and low ends.
+   
 <!--Explain and display your method of coming up with a 95% confidence interval of  professor Brownlows winnings (or losings)-->
 
 ```{r}
