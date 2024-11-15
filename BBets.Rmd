@@ -90,7 +90,12 @@ hist(teachers,
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
-
+```{r}
+teachers <- numeric(40)
+for (i in 1:40){
+  teachers[i]=BrLw(numClass=28)}
+favstats(teachers)
+```
 
 
 
