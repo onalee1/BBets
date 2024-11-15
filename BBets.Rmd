@@ -37,6 +37,19 @@ There are 3 questions and there should be at least 3 separate commits, at least 
 The function will be given a class_size by number of students, odds, and Number_of_times brownlow made the bet.  It will give you back how much Brownlows earnings were. We will use it to answer our three questions below. If you can, improve this function by giving default values to some of its inputs. 
 
 # In the class and payoff as described  If you highered 40 brownlow substitute teachers to do the same thing that Brownlow did then.
+```{r}
+myBrLw <- numeric(1000)
+for(i in 1:1000){
+myBrLw[i]=BrLw()}
+```
+
+
+
+```{r}
+favstats(myBrLw)
+```
+
+
 
 ## what is their average earnings
   The average earnings is "r mean(myBrLw)"
