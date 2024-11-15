@@ -118,6 +118,6 @@ favstats(teachers)
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
-  In this write up we were able to discover the manipulation of odds and use trial and error methods to get our expected results. We adjusted the number of teachers from 40 to 1000 maintain a conclusion that satisfies our desired mean number. We used ChatGPT to help us create histograms for teachers earnings.
+  In this write up we were able to discover the manipulation of odds and use trial and error methods to get our expected results. We adjusted the number of teachers from 40 to 1000 maintain a conclusion that satisfies our desired mean number. We used Google to help us create histograms for teachers earnings. Professor Brownlow would need to analyze his costs and revenue. He should consider factors such as teaching expenses, venue costs, materials, and administrative overhead. By calculating his total costs and dividing by the number of students, he can determine the per-student fee required to break even. From there, he can adjust his pricing strategy to achieve his desired profit margin, whether that's zero or otherwise.
   
   
