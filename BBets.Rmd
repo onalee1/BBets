@@ -44,6 +44,17 @@ hist(profit)
    
    
 2. For what size class is a 2:1 odds bet fair.
+
+```{r}
+profit=as.numeric()
+for (i in 1:400) {
+profit[i]=BrLw(numClass=28)
+}
+hist(profit)
+```
+   For a 2:1 fair odds bet in the classroom, the size should be around approximately between 28 or 29 students so it can be $2 bet outta $1 each students
+   
+   
 3. How much money would Brownlow be expected to end up with if the bets went as described.
 
 ## Our strategy is to build a Function and the use it to answer the three questions. 
